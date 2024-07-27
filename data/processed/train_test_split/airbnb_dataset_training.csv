@@ -1,0 +1,9 @@
+id,minimum_nights,number_of_reviews,neighbourhood_group,neighbourhood,room_type,price
+2539,1,9,Brooklyn,Kensington,Private room,149
+2595,1,45,Manhattan,Midtown,Entire home/apt,225
+3647,3,0,Manhattan,Midtown,Private room,150
+3831,1,270,Brooklyn,Clinton Hill,Entire home/apt,89
+5022,10,9,Manhattan,Murray Hill,Entire home/apt,80
+5099,3,74,Manhattan,Murray Hill,Entire home/apt,200
+5121,45,49,Brooklyn,Bedford-Stuyvesant,Private room,60
+5178,2,430,Manhattan,Hell's Kitchen,Private room,79

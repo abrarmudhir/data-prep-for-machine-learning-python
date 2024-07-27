@@ -1,0 +1,204 @@
+﻿starting_price_cat,reviews_count,max_torque_nm,max_torque_rpm,max_power_bhp,max_power_rp,fuel_tank_capacity,no_cylinder,rating,seating_capacity,fuel_type,engine_displacement,transmission_type,body_type
+Up to 1M,51,89,3500,65.71,5500,27,3,4.5,5,Petrol,998,Automatic,Hatchback
+Up to 1M,86,136.8,4400,101.65,6000,48,4,4.5,5,Petrol,1462,Automatic,SUV
+1M to 5M,242,300,2800,130,3750,57,4,4.5,4,Diesel,2184,Automatic,SUV
+1M to 5M,313,450,2800,182.38,3500,60,4,4.5,7,Diesel,2198,Automatic,SUV
+1M to 5M,107,400,2750,172.45,3500,57,4,4.5,7,Diesel,2198,Automatic,SUV
+1M to 5M,99,500,2800,201.15,3400,80,4,4.5,7,Diesel,2755,Automatic,SUV
+1M to 5M,731,250,2750,113.45,4000,50,4,4.5,5,Diesel,1493,Automatic,SUV
+Up to 1M,381,113,3400,84.48,6000,37,3,4.5,5,Petrol,1199,Automatic,SUV
+Up to 1M,107,210,2200,74.96,3600,60,3,4.5,7,Diesel,1498,Manual,SUV
+Up to 1M,205,113,4400,88.5,6000,37,4,4,5,Petrol,1197,Automatic,Hatchback
+Up to 1M,568,260,2750,108.49,4000,44,4,4.5,5,Diesel,1497,Automatic,SUV
+Up to 1M,36,172,4000,118.41,6000,45,3,4.5,5,Petrol,998,Automatic,SUV
+1M to 5M,2171,250,2750,113.43,4000,50,4,4.5,5,Diesel,1493,Automatic,SUV
+1M to 5M,8,416,2750,183.72,4000,54,4,4.5,5,Diesel,1997,Automatic,SUV
+1M to 5M,2392,350,2500,167.67,3750,50,4,4.5,5,Diesel,1956,Automatic,SUV
+Up to 1M,137,113,4400,88.5,6000,37,4,4.5,5,Petrol,1197,Automatic,Hatchback
+1M to 5M,91,360,2600,148,3400,55,4,4.5,8,Diesel,2393,Automatic,MUV
+Up to 1M,110,136.8,4400,101.65,6000,45,4,4.5,7,Petrol,1462,Automatic,MUV
+Up to 1M,523,250,2750,113.43,4000,45,4,4,5,Diesel,1493,Automatic,SUV
+Up to 1M,245,113,4400,88.5,6000,37,4,4.5,5,Petrol,1197,Automatic,Sedan
+Up to 1M,1067,145,4600,117.6,6600,40,4,4.5,5,Petrol,1497,Manual,Sedan
+5M to 10M,13,650,2500,296.36,4000,89,4,4.5,7,Petrol,4997,Automatic,SUV
+Over 10M,17,700,3000,345.98,4000,90,8,4.5,7,Petrol,4367,Automatic,SUV
+Up to 1M,435,95,3500,72,6000,60,3,4.5,5,CNG,1199,Manual,Hatchback
+Up to 1M,432,171.62,4000,118.36,6000,37,3,3.5,5,Petrol,998,Automatic,Hatchback
+Up to 1M,2245,300,2500,115,3750,42,4,4.5,5,Diesel,1497,Automatic,SUV
+1M to 5M,200,350,2500,167.68,3750,60,4,4,5,Diesel,1956,Manual,SUV
+Up to 1M,1025,200,3000,88.77,4000,37,4,4.5,5,Diesel,1497,Manual,Hatchback
+1M to 5M,14,300,2800,130.07,3750,60,4,4.5,7,Diesel,2184,Manual,SUV
+Up to 1M,234,250,2750,113.45,4000,45,4,4.5,5,Diesel,1493,Automatic,Sedan
+Up to 1M,57,190,1750,108.62,5500,30,3,4.5,5,Petrol,1199,Manual,Hatchback
+1M to 5M,162,200,1750,97.89,3600,40,4,4.5,5,Diesel,1498,Manual,Sedan
+Up to 1M,89,89,3500,65.71,5500,32,3,3.5,5,Petrol,998,Automatic,Hatchback
+Up to 1M,278,152,4400,98.63,5000,40,3,4.5,5,Petrol,999,Automatic,SUV
+Up to 1M,545,91,4250,67.06,5500,28,3,4.5,5,Petrol,999,Automatic,Hatchback
+Up to 1M,437,60,3500,40.36,6000,60,3,4.5,5,CNG,796,Manual,Hatchback
+1M to 5M,40,395,0,134.1,0,0,0,4.5,5,Electric,0,Automatic,SUV
+Up to 1M,136,95,3500,72.4,6000,60,3,4.5,5,CNG,1199,Manual,Sedan
+Up to 1M,228,152,4400,98.63,5000,40,3,4.5,5,Petrol,999,Automatic,SUV
+Up to 1M,301,89,3500,65.71,5500,27,3,4.5,5,Petrol,998,Automatic,Hatchback
+1M to 5M,101,220,3600,138.08,5600,45,3,4.5,5,Petrol,1349,Automatic,SUV
+Over 10M,33,850,4500,641,6000,75,8,4.5,5,Petrol,3996,Automatic,SUV
+Up to 1M,85,160,1750,79.12,3600,35,4,4.5,5,Diesel,1498,Automatic,Sedan
+Up to 1M,774,96,3500,71,6250,40,3,4.5,7,Petrol,999,Automatic,MUV
+1M to 5M,207,250,2750,113.42,4000,50,4,4,7,Diesel,1493,Automatic,SUV
+Up to 1M,261,172,4000,98.63,6000,37,3,4.5,5,Petrol,998,Manual,Sedan
+1M to 5M,69,250,3500,147.51,6000,45,4,4.5,5,Petrol,1498,Automatic,Sedan
+1M to 5M,52,250,3500,147.52,6000,45,4,4.5,5,Petrol,1498,Automatic,Sedan
+Up to 1M,461,113,4200,81.8,6000,32,4,4.5,5,Petrol,1197,Automatic,Hatchback
+1M to 5M,12,400,2600,187.74,3800,38,4,4.5,5,Diesel,1950,Automatic,SUV
+5M to 10M,35,640,1740,400,0,68,4,4.5,7,Petrol,1969,Automatic,Hybrid
+1M to 5M,172,250,3500,147.51,6000,50,4,4.5,5,Petrol,1498,Automatic,SUV
+1M to 5M,58,136.8,4400,101.65,6000,45,4,4.5,6,Petrol,1462,Automatic,MUV
+5M to 10M,18,400,3000,268,5250,41,4,4.5,5,Petrol,1998,Automatic,SUV
+Up to 1M,264,85,3000,61.68,6000,65,4,4.5,7,Petrol,1196,Manual,Minivan
+1M to 5M,28,250,2400,89.84,3200,63,4,4.5,4,Diesel,2596,Manual,SUV
+Up to 1M,77,138,4400,103.25,6000,48,4,4.5,5,Petrol,1462,Automatic,SUV
+Up to 1M,666,138,4400,103.25,6000,43,4,4.5,5,Petrol,1462,Automatic,Sedan
+Up to 1M,532,85.3,4501,59.17,5500,60,4,4.5,5,CNG,1086,Manual,Hatchback
+1M to 5M,68,250,3500,147.51,6000,50,4,4.5,5,Petrol,1498,Automatic,SUV
+Over 10M,15,760,3000,394.26,4400,80,6,4.5,7,Diesel,2993,Automatic,SUV
+5M to 10M,9,500,4500,335.25,6400,57,6,4.5,7,Petrol,2995,Automatic,SUV
+5M to 10M,13,198,4000,115.32,4700,58,4,4.5,7,Petrol,2494,Automatic,MUV
+1M to 5M,13,500,2800,201.15,3400,80,4,4.5,5,Diesel,2755,Automatic,Pickup Truck
+1M to 5M,74,480,2400,215.01,4000,75,4,4.5,7,Diesel,1996,Automatic,SUV
+Over 10M,52,720,6750,759.01,8500,90,12,4.5,2,Petrol,6498,Automatic,Coupe
+1M to 5M,40,400,2500,187.74,6000,51,4,4.5,5,Diesel,1995,Automatic,SUV
+5M to 10M,28,450,5200,335.26,6500,51,6,4.5,5,Petrol,2998,Automatic,SUV
+1M to 5M,6,221,5200,175.67,5700,42,4,4.5,5,Petrol,2498,Automatic,Sedan
+1M to 5M,5,320,4100,187.74,6000,60,4,4.5,5,Petrol,1984,Automatic,SUV
+Over 10M,15,820,1500,563,5250,88,12,4.5,5,Petrol,6750,Automatic,Sedan
+1M to 5M,20,320,3990,187.74,6000,50,4,4.5,5,Petrol,1984,Automatic,Sedan
+1M to 5M,22,320,4200,187.74,6000,66,4,4.5,5,Petrol,1984,Automatic,Sedan
+5M to 10M,19,370,4500,241.3,6500,73,4,4.5,5,Petrol,1984,Automatic,Sedan
+1M to 5M,20,300,0,187.4,0,54,4,4.5,5,Petrol,1969,Automatic,SUV
+5M to 10M,15,605,0,320.55,0,0,0,4.5,5,Electric,0,Automatic,SUV
+5M to 10M,8,350,0,246.58,0,60,4,4.5,5,Petrol,1969,Automatic,Sedan
+Up to 1M,41,110,4800,88.5,6000,40,4,4.5,5,Petrol,1199,Automatic,Hatchback
+5M to 10M,35,365,4000,246.74,5500,82,4,4.5,5,Petrol,1997,Automatic,SUV
+Up to 1M,81,200,1750,97.89,3600,40,4,4.5,5,Diesel,1498,Manual,SUV
+5M to 10M,24,440,3000,246.74,4000,70,5,4.5,5,Petrol,1998,Automatic,SUV
+1M to 5M,10,320,4100,187.74,6000,58,4,4.5,7,Petrol,1984,Automatic,SUV
+1M to 5M,23,320,4200,187.74,6000,54,4,4.5,5,Petrol,1998,Automatic,Sedan
+5M to 10M,6,350,4800,248.08,5200,40,4,4.5,5,Petrol,1998,Automatic,SUV
+5M to 10M,12,500,4500,335,6500,52,6,4.5,2,Petrol,2998,Automatic,Convertible
+1M to 5M,43,400,4400,254.79,5000,59,4,4.5,5,Petrol,1998,Automatic,Sedan
+Up to 1M,257,254,1600,153.87,5500,50,4,4.5,5,Petrol,1330,Automatic,SUV
+1M to 5M,321,300,2500,120.96,3500,45,4,4.5,8,Diesel,1497,Manual,MUV
+5M to 10M,11,550,2200,261.49,4200,40,4,4.5,5,Diesel,1993,Automatic,Sedan
+Over 10M,4,450,5200,335.25,6500,83,6,4.5,5,Petrol,2998,Automatic,Luxury
+1M to 5M,122,420,2600,178.49,3800,70,4,4.5,7,Diesel,2157,Automatic,SUV
+Up to 1M,43,16.1,4000,10.8,5500,35,1,4,4,CNG,216,Manual,Hatchback
+1M to 5M,94,175,4000,108.62,5500,55,3,4.5,5,Petrol,999,Automatic,Sedan
+5M to 10M,3,370,4300,245.59,6000,40,4,4.5,5,Petrol,1984,Manual,SUV
+Over 10M,2,760,5750,611.5,7500,80,8,4.5,2,Petrol,3855,Automatic,Coupe
+1M to 5M,14,280,0,173.83,0,0,0,4.5,5,Electric,0,Automatic,SUV
+Over 10M,16,450,5000,281.6,6000,46,6,4.5,4,Petrol,2998,Automatic,Sedan
+5M to 10M,8,600,3200,281.61,4600,48,6,4.5,5,Diesel,2925,Automatic,Sedan
+5M to 10M,8,430,0,335.25,0,0,0,4.5,5,Electric,0,Automatic,Sedan
+Over 10M,7,700,3000,345.98,4000,51,6,4.5,5,Diesel,2997,Automatic,SUV
+5M to 10M,4,580,500,443.8,6000,70,8,4.5,2,Petrol,5000,Automatic,Coupe
+Up to 1M,67,91,4250,67.05,5550,28,3,3.5,5,Petrol,999,Automatic,Hatchback
+1M to 5M,9,400,2500,187.74,4000,51,4,4.5,5,Diesel,1995,Automatic,Sedan
+1M to 5M,8,360,2500,160.92,3600,37,4,4.5,5,Diesel,1898,Automatic,SUV
+5M to 10M,6,620,2500,261.49,4000,48,6,4.5,5,Diesel,2993,Automatic,Sedan
+1M to 5M,10,320,4180,187.74,6000,55,4,4.5,5,Petrol,1984,Automatic,SUV
+Over 10M,10,730,4500,549.81,6500,90,8,4.5,7,Petrol,3982,Automatic,SUV
+Over 10M,12,770,4500,550,6000,90,8,4.5,5,Petrol,3996,Automatic,SUV
+1M to 5M,44,400,2000,174.33,3750,52.5,4,4,5,Diesel,1997,Automatic,SUV
+Up to 1M,312,104,4400,76.43,6000,35,3,4.5,5,Petrol,1198,Automatic,Hatchback
+1M to 5M,7,300,0,190,0,38,4,4.5,5,Petrol,1969,Automatic,Sedan
+5M to 10M,9,550,5600,434.49,6600,65,6,4.5,5,Petrol,2894,Automatic,SUV
+1M to 5M,22,365,4000,246.74,5500,61.7,4,4.5,5,Petrol,1997,Automatic,Sedan
+1M to 5M,6,180,0,93.87,0,0,0,4.5,5,Electric,0,Automatic,MUV
+5M to 10M,5,700,5000,543.11,6500,82,8,4.5,5,Petrol,4999,Automatic,SUV
+Up to 1M,12,113,3300,84.48,6000,35,3,4.5,5,Petrol,1199,Automatic,Hatchback
+Up to 1M,226,115,3600,82,5500,35,3,4.5,6,Petrol,1198,Manual,Hatchback
+5M to 10M,3,270,1000,181.03,0,0,0,4.5,4,Electric,0,Automatic,Hatchback
+Over 10M,16,700,5500,576.63,6250,75,8,4.5,2,Petrol,3982,Automatic,Coupe
+Up to 1M,307,104,4400,76.43,6000,35,3,4.5,7,Petrol,1198,Automatic,MUV
+Over 10M,8,850,3500,576.63,6000,66,8,4.5,5,Petrol,3982,Automatic,SUV
+Up to 1M,8,800,6000,769.31,7500,68,8,4.5,2,Petrol,3990,Automatic,Coupe
+5M to 10M,31,202,5200,214.56,5700,65,4,4.5,5,Petrol,2487,Automatic,Sedan
+Over 10M,8,650,0,482.76,0,0,0,4.5,5,Electric,0,Automatic,Wagon
+Over 10M,3,350,5100,354,6600,82,6,4.5,4,Petrol,3456,Automatic,Sedan
+Over 10M,15,850,1600,563,5000,88,12,4.5,5,Petrol,6750,Automatic,SUV
+1M to 5M,2,360,2500,160.92,3600,55,4,4.5,7,Diesel,1898,Automatic,SUV
+Over 10M,3,630,0,321.84,0,0,0,4.5,5,Electric,0,Automatic,SUV
+Over 10M,9,900,4500,626,6000,90,12,4.5,4,Petrol,5950,Automatic,Sedan
+Over 10M,12,500,4500,362.07,6100,52,6,4.5,5,Petrol,2999,Automatic,Sedan
+Over 10M,2,650,4000,530,6800,80,8,4.5,5,Petrol,3799,Automatic,Sedan
+5M to 10M,31,430,2500,201.15,4250,39,4,4.5,5,Diesel,1997,Automatic,Sedan
+5M to 10M,38,400,2800,194,3800,66,4,4.5,5,Diesel,1950,Automatic,SUV
+Over 10M,5,760,5250,591.79,7500,81,8,4.5,4,Petrol,3855,Automatic,Convertible
+Over 10M,7,900,4000,603.46,5500,80,12,4.5,4,Petrol,5980,Automatic,Sedan
+Over 10M,4,580,5750,350,5750,80,6,3.5,5,Petrol,2979,Automatic,SUV
+Up to 1M,4,250,2000,85,3000,45,4,4.5,4,Diesel,2956,Manual,Pickup Truck
+Over 10M,5,700,5000,542,6500,85,8,4.5,5,Diesel,3982,Automatic,SUV
+Over 10M,17,700,1600,562,6000,90,12,4.5,4,Petrol,5998,Automatic,Convertible
+Over 10M,2,1020,0,750.97,0,0,0,5,5,Electric,0,Automatic,Sedan
+Over 10M,3,718,7000,788.52,8500,92,8,4.5,2,Petrol,6496,Automatic,Convertible
+Over 10M,4,800,4500,591,6250,73,6,4.5,4,Petrol,3996,Automatic,Luxury
+Over 10M,2,850,5000,603.46,6500,67,8,4.5,5,Petrol,3982,Automatic,SUV
+5M to 10M,6,770,3250,710.74,8000,78,8,3.5,2,Petrol,3902,Automatic,Coupe
+Over 10M,12,600,3200,281.61,4600,100,6,4.5,5,Diesel,2925,Automatic,SUV
+1M to 5M,5,565,6500,630.28,8000,80,10,4.5,2,Petrol,5204,Automatic,Coupe
+Over 10M,20,637,5800,562.2,6800,74,6,4.5,4,Petrol,3798,Automatic,Coupe
+Up to 1M,14,91,3000,41.57,3500,0,0,4,5,Electric,0,Automatic,Sedan
+5M to 10M,5,550,5230,410,6250,52,6,4.5,4,Petrol,2979,Automatic,Coupe
+5M to 10M,8,380,2400,161,3800,57,4,4.5,7,Diesel,2143,Automatic,MUV
+Over 10M,6,900,4500,591,5500,83,12,4.5,4,Petrol,6592,Automatic,Coupe
+Over 10M,1,770,4500,680,6000,60,8,4.5,5,Petrol,2894,Automatic,Wagon
+5M to 10M,14,280,1250,189.08,6000,44,4,4.5,4,Petrol,1998,Automatic,Convertible
+Over 10M,2,450,1500,330,1500,80,8,3,5,Petrol,3799,Automatic,Sedan
+5M to 10M,1,239,4500,187.74,6000,55,4,4,5,Petrol,2487,Automatic,SUV
+5M to 10M,6,365,4500,245.4,5500,70,4,4.5,7,Petrol,1997,Automatic,SUV
+Over 10M,1,770,4500,542,6000,85,8,4,4,Petrol,3956,Automatic,SUV
+Over 10M,8,450,5000,641,6500,64,6,4.5,4,Petrol,2981,Automatic,Coupe
+Over 10M,2,90,0,20.11,0,0,0,3.5,2,Electric,0,Automatic,Hatchback
+Over 10M,1,350,5100,295.02,6600,82,6,4.5,4,Petrol,3456,Automatic,Coupe
+Over 10M,3,520,4750,460,7000,86,8,5,4,Petrol,4691,Automatic,Coupe
+1M to 5M,3,750,5600,600,6000,68,8,4.5,4,Petrol,4395,Automatic,Coupe
+Over 10M,2,700,4000,325.8,4200,93,6,4.5,5,Diesel,2925,Automatic,SUV
+Over 10M,7,664,0,300,0,0,0,4.5,5,Electric,0,Automatic,Coupe
+Over 10M,11,650,5500,502.88,6250,56,6,4.5,5,Petrol,2993,Automatic,Coupe
+1M to 5M,13,280,1350,189.08,6000,51,4,4.5,5,Petrol,1998,Automatic,SUV
+Over 10M,3,320,3500,147.51,4000,66,4,4.5,5,Diesel,1950,Automatic,Sedan
+Over 10M,2,520,0,460,0,75,8,4,4,Diesel,4691,Automatic,Convertible
+Over 10M,1,520,5800,435,6100,85,6,4.5,5,Petrol,2999,Automatic,Coupe
+5M to 10M,3,675,5000,502.88,6000,73,8,3.5,2,Petrol,3998,Manual,Convertible
+5M to 10M,1,760,0,402.3,0,0,0,4.5,5,Electric,0,Automatic,SUV
+Over 10M,1,520,5000,384.87,6100,52,6,4.5,5,Petrol,2996,Automatic,Coupe
+Up to 1M,5,335,4600,258.81,6000,65,6,5,5,Petrol,3456,Automatic,SUV
+Over 10M,8,97.96,4200,65.39,5600,65,4,4.5,5,CNG,1197,Manual,Sedan
+Over 10M,6,696,0,394.26,0,0,0,4.5,5,Electric,0,Automatic,SUV
+Over 10M,2,820,5000,563,6000,83,12,4,4,Petrol,6598,Automatic,Convertible
+Over 10M,30,750,5600,616.87,6000,83,8,5,5,Petrol,4395,Automatic,SUV
+Up to 1M,60,500,2400,241.3,4200,66,4,4.5,5,Diesel,1950,Automatic,Coupe
+5M to 10M,15,280,1250,189.08,6000,44,4,4.5,4,Petrol,1998,Automatic,Hatchback
+5M to 10M,1,630,0,522.99,0,0,0,4.5,5,Electric,0,Automatic,Coupe
+Over 10M,5,200,2200,75.09,3200,60,4,4.5,2,Diesel,2523,Manual,Pickup Truck
+5M to 10M,1,530,3200,362,5600,93,8,5,8,Petrol,5663,Automatic,SUV
+Up to 1M,9,520,5000,384.87,6100,52,6,4.5,5,Petrol,2996,Automatic,SUV
+1M to 5M,88,200,2200,75.09,3200,57,4,4.5,5,Diesel,2523,Manual,Pickup Truck
+Up to 1M,1,250,0,141.04,0,0,0,5,5,Electric,0,Automatic,SUV
+Up to 1M,97,260,2250,100,3750,50,3,4.5,7,Diesel,1493,Manual,SUV
+Over 10M,1,260,2250,100,3750,50,3,4.5,7,Diesel,1493,Manual,SUV
+1M to 5M,5,500,2400,241.38,4200,66,4,5,5,Diesel,1950,Automatic,Coupe
+Over 10M,1,95,4000,70.4,6000,55,4,4.5,5,CNG,1197,Manual,Sedan
+1M to 5M,21,400,4000,301.73,5800,51,4,4.5,5,Petrol,1991,Automatic,Sedan
+Over 10M,1,630,0,611.51,0,72,8,4.5,4,Petrol,3994,Automatic,Coupe
+1M to 5M,23,113,4400,88.5,6000,37,4,4.5,5,Petrol,1197,Automatic,Hatchback
+5M to 10M,3,113,4400,88.5,6000,37,4,4.5,5,Petrol,1197,Automatic,Hatchback
+Over 10M,1,850,4500,631.62,6000,64,8,3.5,4,Petrol,3996,Automatic,SUV
+Up to 1M,6,850,4500,631.62,6000,64,8,3.5,4,Petrol,3996,Automatic,SUV
+5M to 10M,1,127,5000,96.55,6400,40,4,4.5,5,Petrol,1498,Automatic,Sedan
+5M to 10M,1,350,2500,170,3750,60,4,4.5,5,Diesel,1998,Automatic,SUV
+1M to 5M,78,350,2500,167.67,3750,60,4,4.5,7,Diesel,1956,Automatic,SUV
+Up to 1M,35,500,5250,415.71,6750,45,4,4.5,5,Petrol,1991,Automatic,Hatchback
+1M to 5M,3,400,4400,254.79,5000,59,4,4.5,5,Petrol,1998,Automatic,Sedan
+1M to 5M,2,350,2500,167.67,3750,60,4,4.5,7,Diesel,1956,Manual,SUV
+Over 10M,9,800,4500,591.39,6000,85,8,3.5,5,Petrol,3998,Automatic,SUV
+Up to 1M,4,69,3500,47.33,6000,35,3,4.5,5,Petrol,796,Manual,Hatchback
