@@ -1,2 +1,7 @@
-# data-prep-for-machine-learning-python
-Data Prep for Machine Learning in Python
+# Data Prep for Machine Learning in Python
+
+## Build
+```bash
+poetry build
+poetry install
+```
